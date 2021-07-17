@@ -43,7 +43,7 @@
 <!-- ABOUT THE PROJECT -->
 ## About The Project
 
-[![About View][About View]](https://github.com/SilasRodrigues19/FILE-in-C
+[![About View][About View]](https://github.com/SilasRodrigues19/FILE-in-C)
 
 
 
