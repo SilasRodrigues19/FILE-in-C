@@ -43,17 +43,12 @@
 <!-- ABOUT THE PROJECT -->
 ## About The Project
 
-[![About View][About View]](https://github.com/SilasRodrigues19/FILE-in-C)
-[![About View2][About View2]](https://github.com/SilasRodrigues19/FILE-in-C)
-[![About View3][About View3]](https://github.com/SilasRodrigues19/FILE-in-C)
-[![About View4][About View4]](https://github.com/SilasRodrigues19/FILE-in-C)
-[![About View5][About View5]](https://github.com/SilasRodrigues19/FILE-in-C)
-[![About View5][About View6]](https://github.com/SilasRodrigues19/FILE-in-C)
+[![About View][About View]](https://github.com/SilasRodrigues19/FILE-in-C
 
 
 
 
-The website is divided in:
+The project is divided in:
 * **[1] Cadastrar / Create**: enter the register in the list.
 * **[2] Listar / Read** display all records in the list.
 * **[3] Editar / Update** updade record from list.
@@ -106,10 +101,5 @@ Project Link: [https://github.com/SilasRodrigues19/FILE-in-C](https://github.com
 [issues-url]: https://github.com/SilasRodrigues19/FILE-in-C/issues
 [license-shield]: https://img.shields.io/github/license/SilasRodrigues19/FILE-in-C.svg?style=for-the-badge
 [license-url]: https://github.com/SilasRodrigues19/FILE-in-C/blob/master/LICENSE
-[About View]: https://github.com/SilasRodrigues19/FILE-in-C/blob/master/img/file.png
-[About View2]: https://github.com/SilasRodrigues19/FILE-in-C/blob/master/img/file2.png
-[About View3]: https://github.com/SilasRodrigues19/FILE-in-C/blob/master/img/file3.png
-[About View4]: https://github.com/SilasRodrigues19/FILE-in-C/blob/master/img/file4.png
-[About View5]: https://github.com/SilasRodrigues19/FILE-in-C/blob/master/img/file5.png
-[About View6]: https://github.com/SilasRodrigues19/FILE-in-C/blob/master/img/file6.png
+[About View]: https://github.com/SilasRodrigues19/FILE-in-C/blob/master/img/preview.git
 
