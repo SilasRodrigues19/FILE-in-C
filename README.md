@@ -101,5 +101,5 @@ Project Link: [https://github.com/SilasRodrigues19/FILE-in-C](https://github.com
 [issues-url]: https://github.com/SilasRodrigues19/FILE-in-C/issues
 [license-shield]: https://img.shields.io/github/license/SilasRodrigues19/FILE-in-C.svg?style=for-the-badge
 [license-url]: https://github.com/SilasRodrigues19/FILE-in-C/blob/master/LICENSE
-[About View]: https://github.com/SilasRodrigues19/FILE-in-C/blob/master/img/preview.git
+[About View]: https://github.com/SilasRodrigues19/FILE-in-C/blob/master/img/preview.gif
 
