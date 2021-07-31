@@ -103,3 +103,6 @@ Project Link: [https://github.com/SilasRodrigues19/FILE-in-C](https://github.com
 [license-url]: https://github.com/SilasRodrigues19/FILE-in-C/blob/master/LICENSE
 [About View]: https://github.com/SilasRodrigues19/FILE-in-C/blob/master/img/preview.gif
 
+<br><hr>
+[🔼 Back to top](#File-In-C)
+
